@@ -1,4 +1,4 @@
-# PNAS Bisection Grover’s Search Algorithm  and Its Application in Analyzing CITE-seq Data
+# Bisection Grover’s Search Algorithm  and Its Application in Analyzing CITE-seq Data
 
 <img src="circuit_example.png" width="1080" height="220" />
 

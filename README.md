@@ -1,6 +1,4 @@
-# Best Subset Selection: Statistical Computing Meets Quantum Computing
-
-Code for the paper [Best Subset Selection: Statistical Computing Meets Quantum Computing](https://arxiv.org/abs/2107.08359)
+# PNAS Bisection Grover’s Search Algorithm  and Its Application in Analyzing CITE-seq Data
 
 <img src="circuit_example.png" width="1080" height="220" />
 

@@ -33,11 +33,6 @@ Folder `simu experiments_classic computer/python/` contains the python code of t
 
 Folder `simu experiments_classic computer/R/` contains the code of the compared methods and the results.
 
-
-## Citation 
-
-Zhong, W., Ke, Y., Wang, Y., Chen, Y., & Ma, P. (2021). Best Subset Selection: Statistical Computing Meets Quantum Computing. arXiv preprint arXiv:2107.08359.
-
 ## Acknowledgement
 
 Detailed tutorials of constructing Quantum circuit and implementation of Quantum algorithms can be found in https://qiskit.org/documentation/tutorials.html

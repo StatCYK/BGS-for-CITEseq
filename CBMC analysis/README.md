@@ -19,6 +19,9 @@ For Seurat, run `seurat_compare.R`
 For Scanpy, run `scanpy.ipynb`
 
 ### Analysis with BGS algorithm ###
+
 For markers with fixed sizes, run `BGS_select_fix_size.py`
+
 For markers with all sizes, run `BGS_select.py`
+
 For results visualization, run `Analysis_BGS.ipynb`

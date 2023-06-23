@@ -8,7 +8,7 @@
 
 3. Run `marker_data_generate.R`
 
-### Fit logistic regression model & calculate BICs, AUCs, specificity, sensitivity ###
+### Fit logistic regression model & calculate BICs, AUCs, specificity, and sensitivity ###
 
 Run `BIC_calculate.R`
 
@@ -16,3 +16,8 @@ Run `BIC_calculate.R`
 ### Analysis with BGS algorithm ###
 
 run `BGS_select_fix_size.py`
+
+### Base algorithms of Seurat & Scanpy for comparison ###
+
+For Scanpy, run `scanpy.ipynb`
+For Seurat, run `seurat_compare.R`

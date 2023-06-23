@@ -15,7 +15,7 @@ functools
 
 ### experiment on IBM Quantum system
 
-Upload `QAS_IBM_tunePar.ipynb` ,`QAS_IBM_linearReg.ipynb` and `utility.py` to https://lab.quantum-computing.ibm.com/. You need to change the provider information in the code `utility.py`.
+Upload the Python codes to https://lab.quantum-computing.ibm.com/. You need to change the provider information in the code `utility.py`.
 
 For example, setting `IBMQ.get_provider(hub = "ibm-q-research-2", group='uni-georgia-1', project='main')`
 

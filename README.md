@@ -26,10 +26,6 @@ dplyr 1.1.2
 
 leaps 3.1
 
-caret 6.0-94
-
-jackstraw 1.1.1
-
 paletteer 1.5.0
 
 scales 1.2.1

@@ -15,7 +15,7 @@ Run `BIC_calculate.R`
 
 ### Analysis with BGS algorithm ###
 
-run `BGS_select_fix_size.py`
+Run `BGS_select_fix_size.py`
 
 ### Base algorithms of Seurat & Scanpy for comparison ###
 
@@ -25,4 +25,4 @@ For Seurat, run `seurat_compare.R`
 
 ### visualization of the comparison results
 
-run `draw_boxplot.R`
+Run `draw_boxplot.R`

@@ -2,14 +2,21 @@
 
 <img src="circuit_example.png" width="1080" height="220" />
 
-## Requirements
-qiskit=0.36.2
+## Set environments and install packages
 
-numpy
+#### python
 
-itertools
+conda create -n BGS python=3.7 anaconda
 
-functools
+conda activate BGS
+
+pip install -r `requirements.txt` 
+
+#### R
+
+required packages are 
+
+
 
 ## Run experiments
 

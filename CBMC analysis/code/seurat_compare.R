@@ -1,5 +1,5 @@
 # Name: seurat_compare.R
-# Function: Under current problem setting, comparing BSS with Seurat & scanpy
+# Function: Comparing with Seurat & scanpy
 # ------------------------------------------------------------------------------
 # rm(list = ls())
 
@@ -7,12 +7,7 @@ library(Seurat)
 library(ggplot2)
 library(cowplot)
 library(dplyr)
-library(dbscan)
 library(leaps)
-library(caret) # PCA
-library(jackstraw)
-# BiocManager::install("MAST")
-# BiocManager::install("DESeq2")
 
 setwd("../CBMC analysis/code")
 set.seed(123)

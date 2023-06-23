@@ -1,3 +1,5 @@
+# Name: seurat_compare.R
+# Function: Compare with Seurat and scanpy
 # ------------------------------------------------------------------------------
 # rm(list = ls())
 
@@ -5,13 +7,9 @@ library(ggplot2)
 library(scales)
 library(leaps)
 library(MASS)
-
 library(ggplot2)
 library(cowplot)
 library(dplyr)
-library(dbscan)
-library(caret) # PCA
-library(jackstraw)
 
 library(foreach)
 library(doParallel)

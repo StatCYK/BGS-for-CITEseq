@@ -53,8 +53,6 @@ A list of different Quantum systems is available in https://quantum-computing.ib
 The `BGS_IBM_experiment.ipynb` is the code for running time analysis
 
 
-## Acknowledgement
-
 Detailed tutorials of constructing Quantum circuit and implementation of Quantum algorithms can be found in https://qiskit.org/documentation/tutorials.html
 
 ## Contact us

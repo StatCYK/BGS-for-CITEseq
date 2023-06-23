@@ -16,6 +16,28 @@ pip install -r `requirements.txt`
 
 required packages are 
 
+Seurat v5
+
+ggplot2 3.4.2
+
+cowplot 1.1.1
+
+dplyr 1.1.2
+
+leaps 3.1
+
+caret 6.0-94
+
+jackstraw 1.1.1
+
+paletteer 1.5.0
+
+scales 1.2.1
+
+foreach 1.5.2
+
+doParallel 1.0.17
+
 
 
 ## Run experiments

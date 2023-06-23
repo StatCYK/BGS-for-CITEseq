@@ -21,3 +21,8 @@ run `BGS_select_fix_size.py`
 
 For Scanpy, run `scanpy.ipynb`
 For Seurat, run `seurat_compare.R`
+
+
+### visualization of the comparison results
+
+run `draw_boxplot.R`

@@ -25,3 +25,7 @@ For markers with fixed sizes, run `BGS_select_fix_size.py`
 For markers with all sizes, run `BGS_select.py`
 
 For results visualization, run `Analysis_BGS.ipynb`
+
+### visualization of the comparison results
+
+run `boxplot.R`
